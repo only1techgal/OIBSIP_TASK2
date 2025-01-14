@@ -20,6 +20,6 @@ This is a Tribute page dedicated to the iconic Selena Quintanilla, about her lif
      ```
  - 2. Navigate to the project directory:
      ```bash
-        cd Selena_Q-Tribute
+        cd Tribute_page
      ```
  - 3. Open the index.html file in your browser to view the page.
